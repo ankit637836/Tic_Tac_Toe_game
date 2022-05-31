@@ -1,4 +1,3 @@
-# Tic_Tak_toe_game
 <h1>Tic-Tac-Toe Game</h1>
 
 <p>Simple Tic-Tac-Toe Game written in HTML, CSS, and JavaScript .</p>
