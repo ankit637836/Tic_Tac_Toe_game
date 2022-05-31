@@ -12,9 +12,9 @@
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
-
-- Start Playing!!
-
+<br>
+Start Playing!!
+<br>
 <h3> ScreenShots </h3> 
 <img width="889" alt="tictactoe-light" src="https://user-images.githubusercontent.com/64218887/124368601-4070f000-dc80-11eb-8d0d-4c7894491af6.png">
 <br>
